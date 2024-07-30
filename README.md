@@ -24,8 +24,8 @@ This project uses machine learning to analyze handwriting and infer personality 
 
 1. Download the repository:
     ```sh
-    git clone https://github.com/yourusername/handwriting-analysis-ml.git
-    cd handwriting-analysis-ml
+    https://github.com/vishnugupthaa/Graphology.git
+    cd Graphology
     ```
 2. Run the python script:
    ```sh
@@ -41,6 +41,9 @@ This project uses machine learning to analyze handwriting and infer personality 
    ```sh
    pyhton Graphology.py
    ```
+## Data
+
+The images used to train the model are available at [this link](https://drive.proton.me/urls/CCFB5R73RG#XUfhPiyr8ZBM).
 
 ## Note
 
